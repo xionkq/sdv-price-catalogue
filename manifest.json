@@ -3,7 +3,7 @@
     "Author": "css",
     "Version": "1.0.0",
     "Description": "Allow to make Price Catalogue!",
-    "UniqueID": "css.PriceCatalogue",
+    "UniqueID": "css.pricecatalogue",
     "UpdateKeys": [],
     "ContentPackFor": {
         "UniqueID": "Pathoschild.ContentPatcher"
