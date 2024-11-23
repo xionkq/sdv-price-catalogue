@@ -1,0 +1,13 @@
+{
+	"Format": "2.0.0",
+	"Changes": [
+		{
+			"LogName": "Create new big chest crafting recipe",
+			"Action": "EditData",
+			"Target": "Data/CraftingRecipes",
+			"Entries": {
+				"{{ModId}}_BigChest": "771 1/Home/(O)Book_PriceCatalogue/true/default/"
+			}
+		}
+	]
+}

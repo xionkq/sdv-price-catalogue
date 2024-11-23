@@ -1,0 +1,11 @@
+﻿{
+    "Name": "Price Catalogue",
+    "Author": "css",
+    "Version": "1.0.0",
+    "Description": "Allow to make Price Catalogue!",
+    "UniqueID": "css.PriceCatalogue",
+    "UpdateKeys": [],
+    "ContentPackFor": {
+        "UniqueID": "Pathoschild.ContentPatcher"
+    }
+}
